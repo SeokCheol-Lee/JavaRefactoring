@@ -1,6 +1,39 @@
-# Java Refactoring
+# [우리 FISA 3기] 재능기부 프로젝트 Refactoring
 
-### 리펙토링 목록
+## 팀원 소개🧑‍💻
+<table>
+  <tr>
+    <td align="center">
+	    <a href="https://github.com/BooJunhyuk">
+	    	<img src="https://avatars.githubusercontent.com/u/127727927?v=4" width="100px;" alt=""/>
+	    	<br/>
+	    	<sub>
+	    	<b>부준혁</b>
+	    </a>
+	</td>
+      <td align="center">
+    	    <a href="https://github.com/SeokCheol-Lee">
+    	    	<img src="https://avatars.githubusercontent.com/u/90691610?v=4" width="100px;" alt=""/>
+    	    	<br/>
+    	    	<sub>
+    	    	<b>이석철</b>
+    	        </sub>
+    	    </a>
+    	</td>
+	<td align="center">
+	    <a href="https://github.com/2oo1s">
+	    	<img src="https://avatars.githubusercontent.com/u/90839206?v=4" width="100px;" alt=""/>
+	    	<br/>
+	    	<sub>
+	    	<b>이주원</b>
+	    </a>
+      </tr>
+</table>
+
+## 학습 목표✨
+Stream API를 사용해서 Java 코드 refactoring 진행
+
+## 리펙토링 목록🧾
 
 1. final 선언
     - 기존
