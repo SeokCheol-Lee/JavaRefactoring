@@ -117,3 +117,6 @@ Stream API를 사용해서 Java 코드 refactoring 진행
     
     	}
     ```
+## 고찰
+ 1. 코드의 가독성이 향상됨을 느낌
+ 2. Stream API를 사용함으로 코드가 간결해짐
